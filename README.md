@@ -12,5 +12,5 @@
 * [绚丽的倒计时效果(Canvas)](https://www.jianshu.com/p/b15260fff6bd)
 
 ## 瀑布流布局
-  [纯CSS实现瀑布流布局](https://www.w3cplus.com/css/pure-css-create-masonry-layout.html)
-  [一个简单粗暴但是说明问题的 js 实现](https://github.com/AmberYLopez-demos/demos/tree/master/demo6)
+* [纯CSS实现瀑布流布局](https://www.w3cplus.com/css/pure-css-create-masonry-layout.html)
+* [一个简单粗暴但是说明问题的 js 实现](https://github.com/AmberYLopez-demos/demos/tree/master/demo6)
