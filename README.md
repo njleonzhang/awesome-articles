@@ -3,7 +3,7 @@
 
 # 前端
 
-## layout grid
+## grid layout
 * [5分钟入门CSS Grid网格布局](https://juejin.im/post/5a1ef019f265da432b4a963c)
 * [Grid布局完整指南](https://juejin.im/post/5a603aa8f265da3e243b90b5)
 
@@ -14,3 +14,6 @@
 ## 瀑布流布局
 * [纯CSS实现瀑布流布局](https://www.w3cplus.com/css/pure-css-create-masonry-layout.html)
 * [一个简单粗暴但是说明问题的 js 实现](https://github.com/AmberYLopez-demos/demos/tree/master/demo6)
+
+## Misc.
+* [slice 和 splice 的区别](https://github.com/muwenzi/Program-Blog/issues/83)
