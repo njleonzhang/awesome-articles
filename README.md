@@ -17,3 +17,4 @@
 
 ## Misc.
 * [slice 和 splice 的区别](https://github.com/muwenzi/Program-Blog/issues/83)
+* [获取JS对象属性](https://xiaogliu.github.io/2017/08/06/get-js-object-properties/)
