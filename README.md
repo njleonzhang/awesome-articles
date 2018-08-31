@@ -15,6 +15,13 @@
 * [纯CSS实现瀑布流布局](https://www.w3cplus.com/css/pure-css-create-masonry-layout.html)
 * [一个简单粗暴但是说明问题的 js 实现](https://github.com/AmberYLopez-demos/demos/tree/master/demo6)
 
-## Misc.
+## Vue
+[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+
+## typescript
+[TypeScript使用手册](https://github.com/zhongsp/TypeScript)
+
+## js
+* [JavaScript 标准参考教程](https://javascript.ruanyifeng.com/)
 * [slice 和 splice 的区别](https://github.com/muwenzi/Program-Blog/issues/83)
 * [获取JS对象属性](https://xiaogliu.github.io/2017/08/06/get-js-object-properties/)
