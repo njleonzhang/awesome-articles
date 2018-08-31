@@ -19,7 +19,7 @@
 [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 ## typescript
-[TypeScript使用手册](https://github.com/zhongsp/TypeScript)
+[TypeScript handbook 中文版](https://zhongsp.gitbooks.io/typescript-handbook)
 
 ## js
 * [JavaScript 标准参考教程](https://javascript.ruanyifeng.com/)
