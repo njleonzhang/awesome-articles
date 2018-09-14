@@ -19,6 +19,7 @@
 [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 ## typescript
+* [Typescript 入门](https://ts.xcatliu.com/)
 * [TypeScript handbook 中文版](https://zhongsp.gitbooks.io/typescript-handbook)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/?q=), [TypeScript Deep Dive中文版](https://jkchao.github.io/typescript-book-chinese/)
 
