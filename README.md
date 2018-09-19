@@ -24,7 +24,7 @@
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/?q=), [TypeScript Deep Dive中文版](https://jkchao.github.io/typescript-book-chinese/)
 
 ## js
-* [JavaScript 标准参考教程](https://javascript.ruanyifeng.com/)
+* [JavaScript 教程](https://wangdoc.com/javascript/index.html)
 * [slice 和 splice 的区别](https://github.com/muwenzi/Program-Blog/issues/83)
 * [获取JS对象属性](https://xiaogliu.github.io/2017/08/06/get-js-object-properties/)
 * [instanceof 和函数原型](http://www.xieluping.cn/2017/08/18/instanceof/)
