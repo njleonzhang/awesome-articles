@@ -39,5 +39,7 @@
 [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 
 
-## webpack 打包优化
-[如何提高webpack的编译速度？](https://github.com/ly2011/blog/issues/44)
+## webpack
+* [如何提高webpack的编译速度？](https://github.com/ly2011/blog/issues/44)
+* [Webpack-源码 系列](https://blog.csdn.net/qiqingjin/article/details/60579258)
+* [Webpack原理-输出文件分析](http://imweb.io/topic/5a4cce35a192c3b460fce39b)
