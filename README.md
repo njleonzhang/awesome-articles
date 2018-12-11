@@ -31,6 +31,7 @@
 * [instanceof 和函数原型](http://www.xieluping.cn/2017/08/18/instanceof/)
 * [offsetHeight, clientHeight, scrollHeight](https://stackoverflow.com/questions/22675126/what-is-offsetheight-clientheight-scrollheight/22675563)
 * [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+* [AST抽象语法树](https://segmentfault.com/a/1190000016231512)
 
 ## css 
 * [BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
