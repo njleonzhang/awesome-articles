@@ -32,6 +32,7 @@
 * [offsetHeight, clientHeight, scrollHeight](https://stackoverflow.com/questions/22675126/what-is-offsetheight-clientheight-scrollheight/22675563)
 * [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 * [AST抽象语法树](https://segmentfault.com/a/1190000016231512)
+* [babel plugin](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
 
 ## css 
 * [BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
@@ -45,3 +46,4 @@
 * [Webpack-源码 系列](https://blog.csdn.net/qiqingjin/article/details/60579258)
 * [Webpack原理-输出文件分析](http://imweb.io/topic/5a4cce35a192c3b460fce39b)
 * [Webpack Hot Module Replacement 的原理解析](https://github.com/Jocs/jocs.github.io/issues/15)
+
