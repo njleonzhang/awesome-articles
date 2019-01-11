@@ -33,6 +33,7 @@
 * [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 * [AST抽象语法树](https://segmentfault.com/a/1190000016231512)
 * [babel plugin](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
+* [AMD、CMD、UMD 模块的写法](http://web.jobbole.com/82238/)
 
 ## css 
 * [BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
