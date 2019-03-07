@@ -47,6 +47,7 @@
 * [Webpack-源码 系列](https://blog.csdn.net/qiqingjin/article/details/60579258)
 * [Webpack原理-输出文件分析](http://imweb.io/topic/5a4cce35a192c3b460fce39b)
 * [Webpack Hot Module Replacement 的原理解析](https://github.com/Jocs/jocs.github.io/issues/15)
+* 动态加载变量路径: [issue 6680](https://github.com/webpack/webpack/issues/6680), [webpack import() 动态加载模块踩坑](https://segmentfault.com/a/1190000015648036)
 
 ## 架构
 * [当我们谈论前端架构时，我们到底在谈论什么？](https://juejin.im/entry/59800fe651882537d00e0179)
