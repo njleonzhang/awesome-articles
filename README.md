@@ -51,6 +51,7 @@
 
 ## 架构
 * [当我们谈论前端架构时，我们到底在谈论什么？](https://juejin.im/entry/59800fe651882537d00e0179)
+* [Web渲染概述](https://mp.weixin.qq.com/s/iOqO8CgmtvMH-YqzzjSSNg)
 
 ## Misc.
 * [Charles 抓包配置](https://www.jianshu.com/p/468e2905a3e1)
