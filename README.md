@@ -24,6 +24,9 @@
 * [TypeScript handbook 中文版](https://zhongsp.gitbooks.io/typescript-handbook)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/?q=), [TypeScript Deep Dive中文版](https://jkchao.github.io/typescript-book-chinese/)
 
+## React
+* [How does React Hooks re-renders a function Component?](https://medium.com/swlh/how-does-react-hooks-re-renders-a-function-component-cc9b531ae7f0)
+
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
 * [slice 和 splice 的区别](https://github.com/muwenzi/Program-Blog/issues/83)
