@@ -55,6 +55,7 @@
 ## 架构
 * [当我们谈论前端架构时，我们到底在谈论什么？](https://juejin.im/entry/59800fe651882537d00e0179)
 * [Web渲染概述](https://mp.weixin.qq.com/s/iOqO8CgmtvMH-YqzzjSSNg)
+* [微前端](https://mp.weixin.qq.com/s/qMd6k9xSSNjskN3wB5PGgA)
 
 ## 安全
 * [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
