@@ -63,3 +63,4 @@
 
 ## Misc.
 * [Charles 抓包配置](https://www.jianshu.com/p/468e2905a3e1)
+* [视频H5 video最佳实践](https://github.com/gnipbao/iblog/issues/11)
