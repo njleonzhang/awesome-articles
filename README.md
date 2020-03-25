@@ -26,6 +26,7 @@
 
 ## React
 * [How does React Hooks re-renders a function Component?](https://medium.com/swlh/how-does-react-hooks-re-renders-a-function-component-cc9b531ae7f0)
+* [React组件开发的十条最佳实践](https://mp.weixin.qq.com/s/u2_SU6QFAAupGRCjtWuQvQ)
 
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
