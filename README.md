@@ -45,6 +45,7 @@
 ## 浏览器
 * [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 * [web 浏览器指纹跨域共享](https://bailinlin.github.io/2018/03/05/cookie-share/)
+* [Web Worker、Service Worker 和 Worklet](https://juejin.im/entry/5c50f22ef265da616b1115a3)
 
 ## webpack
 * [如何提高webpack的编译速度？](https://github.com/ly2011/blog/issues/44)
