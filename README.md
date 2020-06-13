@@ -55,6 +55,8 @@
 * 动态加载变量路径: [issue 6680](https://github.com/webpack/webpack/issues/6680), [webpack import() 动态加载模块踩坑](https://segmentfault.com/a/1190000015648036)
 * [webpack 4](https://segmentfault.com/a/1190000015919863)
 * [webpack 配置项](https://github.com/webpack/webpack/blob/master/schemas/WebpackOptions.json)
+* [Webpack源码解读](https://juejin.im/post/5dc01199f265da4d12067ebe)
+* [编写自定义webpack插件从理解Tapable开始](https://juejin.im/post/5dcba29f6fb9a04abb01fd77)
 
 ## 架构
 * [当我们谈论前端架构时，我们到底在谈论什么？](https://juejin.im/entry/59800fe651882537d00e0179)
