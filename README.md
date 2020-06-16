@@ -38,6 +38,7 @@
 * [AST抽象语法树](https://segmentfault.com/a/1190000016231512)
 * [babel plugin](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
 * [AMD、CMD、UMD 模块的写法](http://web.jobbole.com/82238/)
+* [惰性函数定义模式](https://realazy.com/posts/2007-08-16-lazy-function-definition-pattern.html)
 
 ## css 
 * [BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
