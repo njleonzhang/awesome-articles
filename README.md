@@ -18,6 +18,7 @@
 
 ## Vue
 [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+[12道vue高频原理面试题,你能答出几道?](https://zhuanlan.zhihu.com/p/101330697)
 
 ## typescript
 * [Typescript 入门](https://ts.xcatliu.com/)
