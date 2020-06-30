@@ -17,8 +17,9 @@
 * [一个简单粗暴但是说明问题的 js 实现](https://github.com/AmberYLopez-demos/demos/tree/master/demo6)
 
 ## Vue
-[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
-[12道vue高频原理面试题,你能答出几道?](https://zhuanlan.zhihu.com/p/101330697)
+* [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+* [Vue 原理系列](https://juejin.im/post/5c8f40af6fb9a070f90aaf8f)
+* [12道vue高频原理面试题,你能答出几道?](https://zhuanlan.zhihu.com/p/101330697)
 
 ## typescript
 * [Typescript 入门](https://ts.xcatliu.com/)
