@@ -66,6 +66,7 @@
 * [Web渲染概述](https://mp.weixin.qq.com/s/iOqO8CgmtvMH-YqzzjSSNg)
 * [微前端](https://mp.weixin.qq.com/s/qMd6k9xSSNjskN3wB5PGgA)
 * [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
+* [debugging-in-vscode-tutorial](https://www.barretlee.com/blog/2019/03/18/debugging-in-vscode-tutorial/)
 
 ## 安全
 * [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
