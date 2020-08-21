@@ -30,6 +30,7 @@
 * [How does React Hooks re-renders a function Component?](https://medium.com/swlh/how-does-react-hooks-re-renders-a-function-component-cc9b531ae7f0)
 * [React组件开发的十条最佳实践](https://mp.weixin.qq.com/s/u2_SU6QFAAupGRCjtWuQvQ)
 * [什么时候使用 useMemo 和 useCallback](https://jancat.github.io/post/2019/translation-usememo-and-usecallback/)
+* [React技术揭秘](https://react.iamkasong.com/)
 
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
