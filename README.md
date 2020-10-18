@@ -32,6 +32,7 @@
 * [什么时候使用 useMemo 和 useCallback](https://jancat.github.io/post/2019/translation-usememo-and-usecallback/)
 * [React技术揭秘](https://react.iamkasong.com/)
 * [react时间分片](https://juejin.im/post/6844903975112671239)
+* [react fiber](https://juejin.im/post/6844903582622285831#heading-1)
 
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
