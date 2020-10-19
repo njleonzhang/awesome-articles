@@ -33,6 +33,7 @@
 * [React技术揭秘](https://react.iamkasong.com/)
 * [react时间分片](https://juejin.im/post/6844903975112671239)
 * [react fiber](https://juejin.im/post/6844903582622285831#heading-1)
+* [浅谈 setState 更新机制](https://juejin.im/post/6844904015524790279)
 
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
@@ -47,7 +48,7 @@
 * [惰性函数定义模式](https://realazy.com/posts/2007-08-16-lazy-function-definition-pattern.html)
 * [实现大文件上传和断点续传](https://juejin.im/post/6844904055819468808)
 
-## css 
+## css
 * [BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
 
 ## 浏览器
