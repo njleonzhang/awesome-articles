@@ -36,6 +36,7 @@
 * [react fiber](https://juejin.im/post/6844903582622285831#heading-1)
 * [浅谈 setState 更新机制](https://juejin.im/post/6844904015524790279)
 * [React Fiber调度原理](https://libin1991.github.io/2019/10/25/React-Fiber%E8%B0%83%E5%BA%A6%E5%8E%9F%E7%90%86/)
+* [图解 react](http://www.7km.top/)
 
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
