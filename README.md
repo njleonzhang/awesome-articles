@@ -89,3 +89,4 @@
 * [Web 字体 font-family 再探秘](https://www.cnblogs.com/coco1s/p/11350642.html)
 * [Android浏览器下line-height垂直居中为什么会偏离？](https://www.zhihu.com/question/39516424/answer/274374076)
 * [文字渲染的那些事（一）字体是如何存储的？](https://juejin.im/post/5c1e2e576fb9a049d5197af2)
+* [iPhone X 适配手Q H5 页面通用解决方案](https://cloud.tencent.com/developer/article/1006338)
