@@ -50,6 +50,7 @@
 * [AMD、CMD、UMD 模块的写法](http://web.jobbole.com/82238/)
 * [惰性函数定义模式](https://realazy.com/posts/2007-08-16-lazy-function-definition-pattern.html)
 * [实现大文件上传和断点续传](https://juejin.im/post/6844904055819468808)
+* [解剖Babel](https://mp.weixin.qq.com/s/hgiSKyFxb6RFD6n2diixvQ)
 
 ## css
 * [BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
