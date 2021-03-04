@@ -80,6 +80,7 @@
 * [debugging-in-vscode-tutorial](https://www.barretlee.com/blog/2019/03/18/debugging-in-vscode-tutorial/)
 * [qiankun](https://juejin.cn/post/6846687602439897101)
 * [阿里大佬浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/VLOPFXAZsygNBnJpY4vjhg)
+* [设计一个 JS 插件系统](https://juejin.cn/post/6871077497044205575)
 
 ## 安全
 * [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
