@@ -81,6 +81,7 @@
 * [qiankun](https://juejin.cn/post/6846687602439897101)
 * [阿里大佬浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/VLOPFXAZsygNBnJpY4vjhg)
 * [设计一个 JS 插件系统](https://juejin.cn/post/6871077497044205575)
+* [微前端qiankun从搭建到部署的实践](https://segmentfault.com/a/1190000024551391)
 
 ## 安全
 * [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
