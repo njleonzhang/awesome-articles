@@ -83,6 +83,7 @@
 * [设计一个 JS 插件系统](https://juejin.cn/post/6871077497044205575)
 * [微前端qiankun从搭建到部署的实践](https://segmentfault.com/a/1190000024551391)
 * [qiankun框架如何支持热更新](https://juejin.cn/post/6927972972640600078/#heading-5)
+* [微前端在美团外卖的实践](https://tech.meituan.com/2020/02/27/meituan-waimai-micro-frontends-practice.html)
 
 ## 安全
 * [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
