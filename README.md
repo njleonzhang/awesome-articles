@@ -38,6 +38,11 @@
 * [React Fiber调度原理](https://libin1991.github.io/2019/10/25/React-Fiber%E8%B0%83%E5%BA%A6%E5%8E%9F%E7%90%86/)
 * [图解 react](http://www.7km.top/)
 
+## react 性能
+* [React 重新渲染：最佳实践](https://zhuanlan.zhihu.com/p/554118692)
+* [如何减少React中无关组件的重渲染](https://developer.aliyun.com/article/1048728#slide-21)
+* [React 性能优化 三个小工具](https://zhuanlan.zhihu.com/p/28109242)
+
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
 * [slice 和 splice 的区别](https://github.com/muwenzi/Program-Blog/issues/83)
