@@ -42,6 +42,7 @@
 * [React 重新渲染：最佳实践](https://zhuanlan.zhihu.com/p/554118692)
 * [如何减少React中无关组件的重渲染](https://developer.aliyun.com/article/1048728#slide-21)
 * [React 性能优化 三个小工具](https://zhuanlan.zhihu.com/p/28109242)
+* [React 性能优化 | 包括原理、技巧、Demo、工具使用](https://juejin.cn/post/6935584878071119885)
 
 ## js
 * [JavaScript 教程](https://wangdoc.com/javascript/index.html)
