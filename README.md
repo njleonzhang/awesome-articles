@@ -26,6 +26,7 @@
 * [Typescript 入门](https://ts.xcatliu.com/)
 * [TypeScript handbook 中文版](https://zhongsp.gitbooks.io/typescript-handbook)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/?q=), [TypeScript Deep Dive中文版](https://jkchao.github.io/typescript-book-chinese/)
+* [TS关键字extends用法总结](https://juejin.cn/post/6998736350841143326)
 
 ## React
 * [How does React Hooks re-renders a function Component?](https://medium.com/swlh/how-does-react-hooks-re-renders-a-function-component-cc9b531ae7f0)
