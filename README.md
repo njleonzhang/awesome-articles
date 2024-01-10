@@ -106,3 +106,4 @@
 * [iPhone X 适配手Q H5 页面通用解决方案](https://cloud.tencent.com/developer/article/1006338)
 * [设计模式](https://bugstack.cn/md/develop/design-pattern/2020-05-28-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
 * [系统设计](https://soulmachine.gitbooks.io/system-design/content/cn/)
+* [GraphQL 入门看这篇就够了](https://www.freecodecamp.org/chinese/news/a-detailed-guide-to-graphql/)
